@@ -1,3 +1,5 @@
+![Chrome Dino Bot](https://github.com/Neill-Erasmus/chrome-dino-automated/assets/141222943/e738114a-d08e-40e1-9d69-145cf40c5c2b)
+
 # Chrome Dino Game Automation
 
 ## Table of Contents
